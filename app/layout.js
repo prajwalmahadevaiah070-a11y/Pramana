@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'Pramana | Master Admin Dashboard',
   description: 'Sovereign National Trust & Credential Grid for India',
